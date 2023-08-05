@@ -1,0 +1,74 @@
+ i have done my assignment with 5 different methods.
+
+1#HELLO WORLD WITH "ANACONDA PROMT/CMD
+2#HELLO WORLD WITH "VS CODE"
+3#HELLO WORLD WITH "VS CODE/JUPYTER NOTEBOOK"
+4#HELLO WORLD WITH "GOOGLE COLAP
+5#HELLO WORLD WITH "NOTEPAD FILE"
+
+------------------------------------------------------------
+
+1:{Hello world with anaconda promt}
+
+(base) E:\python assingment 1.py>python
+Python 3.11.3 | packaged by Anaconda, Inc. | (main, Apr 19 2023, 23:46:34) [MSC v.1916 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print("hello world")
+hello world
+>>> print("pakistan zindabad")
+pakistan zindabad
+>>> print("NED university")
+NED university
+>>>
+
+
+2:{Hello world with notebook}
+
+print("hello world")
+print("pakistan zindabad")
+print("NED university")
+
+(base) E:\>cd E:\python assingment 1.py
+
+(base) E:\python assingment 1.py>python fgd.py
+hello world
+pakistan zindabad
+NED university
+
+
+3:{Hello world with vs code}
+
+print("hello world")
+print("pakistan zindabad")
+print("NED university")
+
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS E:\python assingment 1.py>  & 'C:\ProgramData\anaconda3\python.exe' 'c:\Users\feroz gul\.vscode\extensions\ms-python.python-2023.12.0\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '54889' '--' 'E:\python assingment 1.py\assignment vs.py'
+hello world
+pakistan zindabad
+NED university  
+PS E:\python assingment 1.py>
+
+4:{Hello world with Vs code/jupyter notebook}
+
+new file in vs code 'assingmenr1.ipynb'
+
+alien1
+alien world2
+alien earth1
+
+5:{Hello world with google colap}
+
+hello world
+[2]
+0s
+print("Ned university")
+Ned university
+[4]
+0s
+print("pakistan zindabad")
+pakistan zindabad
